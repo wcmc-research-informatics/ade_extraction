@@ -1,0 +1,14 @@
+neutropenia	anemia	thrombocytopenia	febrile neutropenia	upper respiratory tract infection	urinary tract infection	sinusitis	cellulitis	pneumonia	fatigue	rash	fever	cough	diarrhea	hyperglycemia	constipation	edema	inflammatory syndrome	infusion reaction	nausea	anorexia	dyspnea	elevated alanine aminotransferase level	elevated aspartate aminotransferase level	hypothyroidism
+neutropenia	anemia	thrombocytopenia	febrile neutropenia	upper respiratory tract infection	urinary tract infection	sinusitis	cellulitis	pneumonia	fatigue	rash	fever	cough	diarrhea	hyperglycemia	constipation	edema	inflammatory syndrome	infusion reaction	nausea	anorexia	dyspnea	elevated alanine aminotransferase level	elevated aspartate aminotransferase level	hypothyroidism
+low neutrophil	low hemoglobin	low platelets	neutropenic fever	uri	uti	sinus infection	soft tissue infection	lower respiratory infection	tired	rashes	high temperature	tussis	loose stool	high sugar	no BM	swelling	tumor flare	anaphylaxis	CINV	low appetite	short of breath	elevated transaminases	elevated transaminases	low thyroid
+low neutrophils	low hematocrit	platelets low	neutropenic fevers	viral illness	urine infection		SSTI	PNA	tiredness		fevers	coughing	loose BM	high glucose	no bowel movements	volume overload		allergic reaction	vomiting	poor appetite	sob	elevated ALT	elevated AST	
+neutrophils low	hemoglobin low	low plts		flu	cystitis		skin and soft tissue infection	bronchopneumonia	low energy				loose bowel movements	elevated blood sugar	not having bowel movements	LEE			emesis	anorexic	doe	transaminitis	transaminitis	
+low ANC	low hgb	low plt		influenza	bladder infection				fatigued				n/v/d	elevated sugar					nauseous	appetite decreased	dyspneic	high LFTs	high LFTs	
+pancytopenia	low hct	plt low 		viral infection					energy low				n_v_d	elevated glucose					vomited	appetite low	shortness of breath	elevated liver function test	elevated liver function test	
+	reduced hemoglobin	pancytopenia		rhinovirus					tires					elevated blood glucose					vomit	appetite diminished	difficulty breathing			
+	reduced hgb			rhino										high blood glucose					n/v		trouble breathing			
+	pancytopenia			cold										high sugars					n/v/d		respiratory distress			
+														sugar poorly controlled					n_v_d					
+														uncontrolled diabetes										
+														uncontrolled glucose										
+														uncontrolled sugar										
